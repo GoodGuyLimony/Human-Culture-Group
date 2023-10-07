@@ -1,0 +1,26 @@
+name_list_international = {
+
+	dynasty_names = {
+		dynn_Smith
+	}
+	
+	male_names = {
+		John
+	}
+	female_names = {
+		Joanna
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_kin"
+
+	patronym_suffix_male = "dynnpat_suf_sboy"
+	patronym_suffix_female = "dynnpat_suf_sgirl"
+		
+	pat_grf_name_chance = 60
+	mat_grf_name_chance = 25
+	father_name_chance = 15
+	
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 60
+	mother_name_chance = 15
+}
