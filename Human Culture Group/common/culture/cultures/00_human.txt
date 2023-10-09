@@ -13,6 +13,34 @@ unified = {
         tradition_charitable
         tradition_modest
         tradition_noble_adoption
+		tradition_reverence_for_veterans
+		tradition_stalwart_defenders
+		tradition_warrior_monks
+		tradition_astute_diplomats
+		tradition_collective_lands
+		tradition_agrarian
+		tradition_culture_blending
+		tradition_equal_inheritance
+		tradition_esteemed_hospitality
+		tradition_legalistic
+		tradition_tribe_unity
+		tradition_artisans
+		tradition_loyal_soldiers
+		tradition_hard_working
+		tradition_forbearing
+		tradition_music_theory
+		tradition_philosopher_culture
+		tradition_poetry
+		tradition_chivalry
+		tradition_storytellers
+		tradition_language_scholars
+		tradition_monogamous
+		tradition_religion_blending
+		tradition_culinary_art
+		tradition_festivities
+		tradition_medicinal_plants
+		tradition_merciful_blindings
+		
 	}
 	
 	name_list = name_list_unified
