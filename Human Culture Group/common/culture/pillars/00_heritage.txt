@@ -154,7 +154,7 @@ heritage_vlach = {
 	type = heritage
 }
 
-heritage_united = {
+heritage_earth = {
 	type = heritage
 }
 

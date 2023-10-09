@@ -75,7 +75,7 @@
  language_wallachian_name:0 "Dacian Vulgar"
  language_italian_name:0 "Italian Vulgar"
  language_ayneha_name:0 "Ayneha"
- language_human_name:0 "Human"
+ language_international_name:0 "International"
 
  aesthetics_norwegian_name:0 "Norwegian"
  aesthetics_swedish_name:0 "Swedish"
@@ -86,7 +86,7 @@
  aesthetics_norman_name:0 "Norman"
  aesthetics_scottish_name:0 "Scottish"
  aesthetics_sicilian_name:0 "Sicilian"
- aesthetics_international_name:0 "International"
+ aesthetics_unified_name:0 "Unified"
 
 #Dead Languages - Only used in custom loc
 language_hebrew_name: "Hebrew"

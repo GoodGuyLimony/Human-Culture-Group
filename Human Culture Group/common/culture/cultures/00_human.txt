@@ -1,9 +1,9 @@
-international = {
+unified = {
 	color = { 1.0 1.0 1.0 }
 	
 	ethos = ethos_egalitarian
-	heritage = heritage_united
-	language = language_human
+	heritage = heritage_earth
+	language = language_international
 	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_xenophilic
@@ -15,7 +15,7 @@ international = {
         tradition_noble_adoption
 	}
 	
-	name_list = name_list_international
+	name_list = name_list_unified
 	
 	coa_gfx = { western_coa_gfx }
 	building_gfx = { western_building_gfx }

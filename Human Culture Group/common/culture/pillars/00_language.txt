@@ -1315,20 +1315,20 @@ language_ayneha = {
 	color = songhai
 }
 
-language_human = {
+language_international = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_human
+			LANGUAGE = language_international
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_human }
+			limit = { has_cultural_pillar = language_international }
 			multiply = 10
 		}
 	}
 	
-	color = international
+	color = unified
 }

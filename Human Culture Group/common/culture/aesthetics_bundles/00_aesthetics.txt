@@ -258,24 +258,24 @@ aesthetics_sicilian = {
 	unit_gfx = { western_unit_gfx }
 }
 
-aesthetics_international = {
+aesthetics_unified = {
 	is_shown = {
 		scope:character = {
 			culture = {
 				OR = {
-					has_cultural_pillar = heritage_united
+					has_cultural_pillar = heritage_earth
 				}
 				OR = {
-					has_cultural_pillar = language_human
+					has_cultural_pillar = language_international
 				}
 			}
 			NOT = {
-				culture = culture:international
+				culture = culture:unified
 			}
 		}
 	}
 		
-	name_list = name_list_international
+	name_list = name_list_unified
 	
 	coa_gfx = { western_coa_gfx }
 	building_gfx = { western_building_gfx }

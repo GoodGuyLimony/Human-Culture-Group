@@ -735,8 +735,8 @@
  galician_prefix:0 "Galico"
  galician_collective_noun:0 "Galicians"
  #United group
- united_group:0 "United"
- united_group_collective_noun:0 "United"
- international:0 "International"
- international_prefix:0 "International"
- international_collective_noun:0 "Internatonal"
+ human_group:0 "Human"
+ human_group_collective_noun:0 "Humans"
+ unified:0 "Unified"
+ unified_prefix:0 "Unified"
+ unified_collective_noun:0 "Unified"

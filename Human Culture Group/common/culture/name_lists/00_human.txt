@@ -1,4 +1,4 @@
-name_list_international = {
+name_list_unified = {
 
 	cadet_dynasty_names = {
 		"dynn_Smith"
