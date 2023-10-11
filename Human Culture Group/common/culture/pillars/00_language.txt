@@ -1330,5 +1330,5 @@ language_international = {
 		}
 	}
 	
-	color = unified
+	color = { 1.0 1.0 1.0 }
 }
